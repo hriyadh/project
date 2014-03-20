@@ -1,0 +1,2 @@
+1. Learn git add command
+2. Learn git status command
